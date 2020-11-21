@@ -33,7 +33,7 @@
   url = "#featured"                                                                                    
   weight = 6                                                                                           
 
-[[menu.main]]                                                                                          
+[[menu]]                                                                                          
   name = "Join Us"                                                                                     
   url = "#featured"                                                                                    
   weight = 7                                                                                           
