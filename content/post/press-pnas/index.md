@@ -1,13 +1,12 @@
 ---
 title: Press for our 2019 Ocean Warming Paper in PNAS 
-subtitle: Some links (press and radio) 
-summary: Some links (press and radio) 
+subtitle: Some links (press and radio) discussing our work
+summary: Some links (press and radio) discussing our work
 authors:
 - admin
 tags: []
 categories: []
 date: "2019-01-08T00:00:00Z"
-lastMod: "2019-01-03T00:00:00Z"
 featured: false
 draft: false
 
