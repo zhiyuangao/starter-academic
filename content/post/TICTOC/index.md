@@ -27,5 +27,5 @@ projects: []
 ---
 
 The annual meeting of our project "Transient tracer-based Investigation of Circulation and Thermal Ocea\
-n Change" [TICTOC](http://projects.noc.ac.uk/tictoc/) will be held in Oxford on Sep 25-26
+n Change" [TICTOC](http://projects.noc.ac.uk/tictoc/) will be held in Oxford on Sep 25-26 2018.
 
