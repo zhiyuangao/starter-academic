@@ -1,7 +1,7 @@
 ---
-title: Press for our 2019 Ocean Warming Paper in PNAS 
-subtitle: Some links (press and radio) discussing our work
-summary: Some links (press and radio) discussing our work
+title: Ocean Warming Paper out in PNAS, with press coverage 
+subtitle: Links to paper, and some press and radio.
+summary: Links to paper, and some press and radio.
 authors:
 - admin
 tags: []
@@ -26,6 +26,8 @@ image:
 projects: []
 ---
 
+Our new paper on reconstruction ocean heat content from 1871 to present was accepted in PNAS. The paper was part of our exciting NERC Large Grant [TICTOC](http://projects.noc.ac.uk/tictoc/). 
+  
 You can find the paper and a summary in our [publication list](https://laurezanna.github.io/publication/zanna-et-al-2017b/).
 
 
