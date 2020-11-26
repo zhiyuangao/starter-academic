@@ -23,7 +23,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["cpt"]
+projects: []
 ---
 
 More info on the project website [CPT Ocean Eddies](https://ocean-eddy-cpt.github.io/index.html)
