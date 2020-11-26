@@ -1,7 +1,7 @@
 ---
 title: Updated Datasets of ocean warming reconstruction
-subtitle: Ocean Heat Content and Thermosteric Sea Level Update: 1870-2018
-summary: Ocean Heat Content and Thermosteric Sea Level Update: 1870-2018
+subtitle: Ocean Heat Content and Thermosteric Sea Level 
+summary: Ocean Heat Content and Thermosteric Sea Level 
 authors:
 - admin
 tags: []
