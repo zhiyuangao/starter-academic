@@ -34,7 +34,7 @@
   weight = 6                                                                                           
 
 [[menu]]                                                                                          
-  name = "Join Us"                                                                                     
+  name = "Join"                                                                                     
   url = "#featured"                                                                                    
   weight = 7                                                                                           
                                                                                                        
