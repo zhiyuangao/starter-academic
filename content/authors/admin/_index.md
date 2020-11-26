@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-Laure Zanna is a Professor in Mathematics & Atmosphere/ Ocean Science at New York University. She was a faculty member at the University of Oxford until 2019. She obtained her PhD in 2009 in Climate Dynamics from Harvard University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. She is the recipient of 2020 The Nicholas P. Fofonoff Award from the American Meteorological Society “ For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”.
+Laure Zanna is a Professor in Mathematics & Atmosphere/ Ocean Science at New York University. She was a faculty member at the University of Oxford until 2019. She obtained her PhD in 2009 in Climate Dynamics from Harvard University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. She is the recipient of 2020 The Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”.
 
 Recently, she has worked on a wide range of topics including the role of the ocean in setting ocean heat and carbon patterns under climate change, regional sea level rise, ocean turbulence in climate models, and uncertainty quantification. She has been particularly interested in the development of machine learning models with embedded physics to deepen our understanding of climate processes. 
 
