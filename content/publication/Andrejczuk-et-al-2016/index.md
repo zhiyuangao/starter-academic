@@ -1,10 +1,12 @@
 ---
 title: "Oceanic stochastic parametrizations in a seasonal forecast system"
 authors:
-- Andrejczuk**M.**
+- Andrejczuk M.
 - F. Cooper
-- admin
-- Robert Ford
+- S. Juricke 
+- T. N. Palmer
+- A. Weisheimer
+- L. Zanna
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
