@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/pdf/Andrejczuk_etal_2016.pdf
+url_pdf: files/Andrejczuk_etal_2016.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
