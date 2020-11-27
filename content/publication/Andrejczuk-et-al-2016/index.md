@@ -1,7 +1,7 @@
 ---
 title: "Oceanic stochastic parametrizations in a seasonal forecast system"
 authors:
-- "**M. Andrejczuk**"
+- "*M. Andrejczuk*"
 - F. Cooper
 - S. Juricke 
 - T. N. Palmer
