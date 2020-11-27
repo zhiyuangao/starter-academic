@@ -11,7 +11,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2016-05-01T00:00:00Z"
-doi: ""
+doi: "doi:10.1175/MWR-D-15-0245.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875, doi:10.1175/MWR-D-15-0245.1"
+publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875"
 publication_short: ""
 
 abstract: 
