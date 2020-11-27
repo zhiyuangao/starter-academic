@@ -1,8 +1,8 @@
 ---
 title: "Oceanic stochastic parametrizations in a seasonal forecast system"
 authors:
-- **Andrejczuk M.**
-- **F. Cooper**
+- Andrejczuk M.
+- F. Cooper
 - admin
 - Robert Ford
 # author_notes:
