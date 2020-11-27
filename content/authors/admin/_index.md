@@ -21,7 +21,7 @@ bio: My research interests include climate dynamics, ocean modeling, and machine
 interests:
 - Ocean Dynamics
 - Climate Change
-- Turbulence
+- Machine Learning
 
 education:
   courses:
@@ -78,9 +78,9 @@ user_groups:
 - Visitors
 ---
 
-Laure Zanna is a Professor in Mathematics & Atmosphere/ Ocean Science at New York University. She was a faculty member at the University of Oxford until 2019. She obtained her PhD in 2009 in Climate Dynamics from Harvard University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. She is the recipient of 2020 The Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”.
+Laure Zanna is a Professor in Mathematics & Atmosphere/ Ocean Science at New York University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. She has worked on a wide range of topics including the role of the ocean in setting ocean heat and carbon patterns under climate change, regional sea level rise, ocean turbulence in climate models, and uncertainty quantification. Recently, she has been particularly interested in the development of machine learning models with embedded physics to deepen our understanding of climate processes. 
 
-Recently, she has worked on a wide range of topics including the role of the ocean in setting ocean heat and carbon patterns under climate change, regional sea level rise, ocean turbulence in climate models, and uncertainty quantification. She has been particularly interested in the development of machine learning models with embedded physics to deepen our understanding of climate processes. 
+Prior to NYU, she was a faculty member at the University of Oxford until 2019, and obtained her PhD in 2009 in Climate Dynamics from Harvard University. She was the recipient of the 2020 Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”. She currently serves as an editor for Journal of Climate.  
 
 See below for opportinuties to join our team. 
 
