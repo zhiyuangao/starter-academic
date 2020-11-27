@@ -1,7 +1,7 @@
 ---
-title: Press for our 2019 Ocean Warming Paper in PNAS 
-subtitle: Some links (press and radio) discussing our work
-summary: Some links (press and radio) discussing our work
+title: Learning equation for ocean turbulence using machine learning 
+subtitle: Neural Nets + Physics vs. Equation-discovery for parameterization
+summary: Neural Nets + Physics vs. Equation-discovery for parameterization
 authors:
 - admin
 tags: []
