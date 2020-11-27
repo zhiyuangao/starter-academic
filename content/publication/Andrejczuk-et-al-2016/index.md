@@ -1,7 +1,7 @@
 ---
 title: "Oceanic stochastic parametrizations in a seasonal forecast system"
 authors:
-- "*M. Andrejczuk*"
+- "M. Andrejczuk"
 - F. Cooper
 - S. Juricke 
 - T. N. Palmer
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1) Mon. Wea. Rev., 144, 5, 1867-1875, doi:10.1175/MWR-D-15-0245.1"
+publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875, doi:10.1175/MWR-D-15-0245.1"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: files/pdf/Andrejczuk_etal_2016.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
