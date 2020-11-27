@@ -1,5 +1,5 @@
 ---
-title: Learning equation for ocean turbulence using machine learning 
+title: Learning equations for ocean turbulence using machine learning 
 subtitle: Neural Nets + Physics vs. Equation-discovery for parameterization
 summary: Neural Nets + Physics vs. Equation-discovery for parameterization
 authors:
