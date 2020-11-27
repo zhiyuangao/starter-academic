@@ -26,4 +26,4 @@ image:
 projects: []
 ---
 
-The talk can be on the NAS [website](https://www.nationalacademies.org/event/09-08-2020/climate-and-weather-illustrating-the-impact-of-the-mathematical-sciences).
+The talk can be found on the NAS [website](https://www.nationalacademies.org/event/09-08-2020/climate-and-weather-illustrating-the-impact-of-the-mathematical-sciences).
