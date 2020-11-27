@@ -83,3 +83,6 @@ Laure Zanna is a Professor in Mathematics & Atmosphere/ Ocean Science at New Yor
 Recently, she has worked on a wide range of topics including the role of the ocean in setting ocean heat and carbon patterns under climate change, regional sea level rise, ocean turbulence in climate models, and uncertainty quantification. She has been particularly interested in the development of machine learning models with embedded physics to deepen our understanding of climate processes. 
 
 See below for opportinuties to join our team. 
+
+<a class="twitter-timeline" href="https://twitter.com/laurezanna?ref_src=twsrc%5Etfw">Tweets by laurezanna</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
