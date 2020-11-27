@@ -1,7 +1,7 @@
 ---
 title: New paper out in Nature on ocean heat/carbon uptake
-subtitle: New links between heat & carbon to understand past and future warming 
-summary: New links between heat & carbon to understand past and future warming 
+subtitle: Links between heat & carbon to understand past and future warming patterns
+summary: Links between heat & carbon to understand past and future warming patterns
 authors:
 - admin
 tags: []
