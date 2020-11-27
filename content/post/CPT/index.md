@@ -1,7 +1,7 @@
 ---
-title: Climate Process Team
-subtitle: CPT Ocean Transport and Eddy Energy
-summary: CPT Ocean Transport and Eddy Energy
+title: New Climate Process Team
+subtitle: CPT Ocean Transport and Eddy Energy funded by NSF and NOAA
+summary: CPT Ocean Transport and Eddy Energy funded by NSF and NOAA
 authors:
 - admin
 tags: []
@@ -26,5 +26,8 @@ image:
 projects: []
 ---
 
-More info on the project website [CPT Ocean Eddies](https://ocean-eddy-cpt.github.io/index.html)
-and please find the proposal [online](https://figshare.com/articles/Proposal/10105922).
+We are delighted to announce the launch of our new multi-institution Climate Process Team (CPT) on Ocean Transport and Eddy Energy, funded by NSF and NOAA. The CPT aims to implement, assess, improve, and unify recent work on energetically-consistent ocean eddy momentum and tracer parametrizations in ocean-only and coupled climate models to improve model fidelity.
+
+We have four postdoc positions available (NYU, Princeton, WHOI, CU Boulder) covering observations, theory, and modeling of ocean mesoscale eddies. See the advert [here](https://tinyurl.com/y674sv2n). 
+
+You can find more details [online](https://ocean-eddy-cpt.github.io/). The website will be updated in the coming weeks. You can find the proposal [online](https://figshare.com/articles/Proposal/10105922).
