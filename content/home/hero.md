@@ -58,3 +58,6 @@ hero_media = "guadeloupe_2.png"
 +++
 
 Understanding, Modeling, Predicting
+
+<a class="twitter-timeline" href="https://twitter.com/laurezanna?ref_src=twsrc%5Etfw">Tweets by laurezanna</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
