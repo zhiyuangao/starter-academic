@@ -84,5 +84,3 @@ Recently, she has worked on a wide range of topics including the role of the oce
 
 See below for opportinuties to join our team. 
 
-<a class="twitter-timeline" href="https://twitter.com/laurezanna?ref_src=twsrc%5Etfw">Tweets by laurezanna</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
