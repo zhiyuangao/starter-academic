@@ -1,7 +1,7 @@
 ---
 title: "The relationship between a deformation-based eddy parametrization and the LANS-alpha turbulence model"
 authors:
-- "S. Bachman S." 
+- "S. Bachman" 
 - J. Anstey
 - L. Zanna
 # author_notes:
