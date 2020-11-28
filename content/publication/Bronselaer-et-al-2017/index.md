@@ -44,7 +44,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_custom : [{name = "MITgcm News", url = "http://mitgcm.org/2018/03/08/exploring-the-southern-ocean-p\
+url_custom: [{name = "MITgcm News", url = "http://mitgcm.org/2018/03/08/exploring-the-southern-ocean-p\
 co2-wind-stress-connection/"}]
 
 # Featured image
