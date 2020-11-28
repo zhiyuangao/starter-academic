@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2018-06-01T00:00:00Z"
-doi: "doi:10.1175/MWR-D-15-0245.1"
+doi: "doi.org/10.1088/1742-5468/aad19a"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-06-01T00:00:00Z"
