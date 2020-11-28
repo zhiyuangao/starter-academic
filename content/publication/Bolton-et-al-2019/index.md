@@ -1,7 +1,7 @@
 ---
 title: "Regional and Temporal Variability of Lateral Mixing in the North Atlantic"
 authors:
-- "T. Bolton T."
+- "T. Bolton"
 - R. Abernathey
 - L. Zanna
 # author_notes:
