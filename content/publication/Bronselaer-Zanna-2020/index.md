@@ -1,7 +1,7 @@
 ---
 title: "Heat and carbon coupling reveals ocean warming patterns due to circulation changes"
 authors:
-- B. Bronselaer
+- "B. Bronselaer"
 - L. Zanna
 # author_notes:
 # - "Equal contribution"
