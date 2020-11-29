@@ -88,4 +88,4 @@ Our findings suggest that 1) the ocean has gained energy equivalent to roughly 4
 
 Our method is obviously subject to uncertainty from many different sources (described in detail in the manuscript). However our results are consistent with direct interior temperature measurements giving us some confidence in the method.
 
-Much work remains to be done to understand observed and predicted patterns of ocean warming and thermosteric sea level rise, which our method can hopefully help address.
+Much work remains to be done to understand observed and predicted patterns of ocean warming and thermosteric sea level rise, which our method can hopefully help address. 
