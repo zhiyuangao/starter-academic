@@ -38,7 +38,7 @@ publishDate: "2020-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Clim Dyn*"
+publication: "*Clim Dyn*"
 publication_short: ""
 
 abstract: 
