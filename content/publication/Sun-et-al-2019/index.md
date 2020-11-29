@@ -1,20 +1,18 @@
 ---
-title: "Oceanic stochastic parametrizations in a seasonal forecast system"
+title: "Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic"
 authors:
-- "M. Andrejczuk"
-- F. Cooper
-- S. Juricke 
-- T. N. Palmer
-- A. Weisheimer
-- L. Zanna
+- "S. Sun 
+- I. Eisenman 
+- L. Zanna 
+- A. Stewart
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2016-05-01T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 doi: "doi:10.1175/MWR-D-15-0245.1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-03-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875"
+publication: "*J. Climat*, 33 (8): 3125–3149"
 publication_short: ""
 
 abstract: 
@@ -38,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Andrejczuk_etal_2016.pdf
+url_pdf: files/Sun-et-al-2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
