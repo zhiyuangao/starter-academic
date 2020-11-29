@@ -1,17 +1,16 @@
 ---
-title: "Oceanic stochastic parametrizations in a seasonal forecast system"
+title: "Scale-Aware Deterministic and Stochastic Parametrizations of Eddy-Mean Flow Interaction"
 authors:
-- "M. Andrejczuk"
-- F. Cooper
-- S. Juricke 
-- T. N. Palmer
-- A. Weisheimer
-- L. Zanna
+- "Zanna L." 
+- P.G.L. Porta Mana 
+- J. Anstey 
+- T. David 
+- T. Bolton
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2016-05-01T00:00:00Z"
-doi: "doi:10.1175/MWR-D-15-0245.1"
+date: "2017-01-01T00:00:00Z"
+doi: "doi:10.1016/j.ocemod.2017.01.004"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875"
+publication: "*Oc. Modelling*, 111, 66 - 80"
 publication_short: ""
 
 abstract: 
@@ -38,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Andrejczuk_etal_2016.pdf
+url_pdf: files/Zanna-et-al-2017.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
