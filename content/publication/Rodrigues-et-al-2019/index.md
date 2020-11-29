@@ -1,17 +1,15 @@
 ---
-title: "Oceanic stochastic parametrizations in a seasonal forecast system"
+title: "ENSO bimodality and extremes"
 authors:
-- "M. Andrejczuk"
-- F. Cooper
-- S. Juricke 
-- T. N. Palmer
-- A. Weisheimer
-- L. Zanna
+- "R. Rodrigues" 
+- A. Subramanian 
+- L. Zanna 
+- J. Berner
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2016-05-01T00:00:00Z"
-doi: "doi:10.1175/MWR-D-15-0245.1"
+doi: "DOI:10.1029/2019GL082270"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -23,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875"
+publication: "*GRL*, 46, 4883– 4893"
 publication_short: ""
 
 abstract: 
@@ -38,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Andrejczuk_etal_2016.pdf
+url_pdf: files/Rodrigues-et-al-2019.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
