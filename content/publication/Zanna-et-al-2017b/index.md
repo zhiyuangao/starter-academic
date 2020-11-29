@@ -46,6 +46,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+# url_custom = [{name = "PDF Supp Material", url = "files/pdf/Zanna-et-al-SI-2019.pdf"},{name = "Press", url = "post/jan_2_2019/"},{name= "PNAS Global OHC data", url="https://www.dropbox.com/s/wx3fj4w61b8yyud/OHC_GF_global.nc?dl=0"},{name="Notes and links for updated dataset 1870-2018", url = "post/ohc_updated_data/"}]
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
