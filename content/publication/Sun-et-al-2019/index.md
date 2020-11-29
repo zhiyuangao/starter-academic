@@ -1,7 +1,7 @@
 ---
 title: "Surface constraints on the depth of the Atlantic Meridional Overturning Circulation: Southern Ocean vs North Atlantic"
 authors:
-- "S. Sun 
+- "S. Sun" 
 - I. Eisenman 
 - L. Zanna 
 - A. Stewart
