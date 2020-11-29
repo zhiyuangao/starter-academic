@@ -1,5 +1,5 @@
 ---
-title: "Oceanic stochastic parametrizations in a seasonal forecast system"
+title: "A conceptual model of ocean heat uptake under climate change"
 authors:
 - "D. P. Marshall"
 - L. Zanna
