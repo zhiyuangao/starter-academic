@@ -79,3 +79,13 @@ slides: example
 # 
 # Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 ---
+
+In this work, we attempt to 1) extend global estimates of ocean warming before 1950s; 2) infer how changes in ocean circulation can shape patterns of ocean warming and sea level.
+
+We created a model based on a technique which maps information between the surface of the ocean and its interior. The model is informed by a combination of observations and computer simulations.
+
+Our findings suggest that 1) the ocean has gained energy equivalent to roughly 436 $\times$ 10$^{21}$ Joules from 1871 to present, and that 2) changes in ocean processes (currents + mixing) have occured in the past 60 yrs affecting regional sea level rise in the Atlantic Oceean. While we have identified changes in ocean tranport in the past 60 years, we cannot directly attribute the changes to natural variability or externally-forced climate change.
+
+Our method is obviously subject to uncertainty from many different sources (described in detail in the manuscript). However our results are consistent with direct interior temperature measurements giving us some confidence in the method.
+
+Much work remains to be done to understand observed and predicted patterns of ocean warming and thermosteric sea level rise, which our method can hopefully help address.
