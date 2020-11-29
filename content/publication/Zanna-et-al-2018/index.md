@@ -79,5 +79,4 @@ slides: example
 # Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 ---
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-<div class='altmetric-embed' data-badge-type='1' data-doi="10.1002/qj.3397"></div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script><div class='altmetric-embed' data-badge-type='1' data-doi="10.1002/qj.3397"></div>
