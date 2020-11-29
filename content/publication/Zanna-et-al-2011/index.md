@@ -1,7 +1,7 @@
 ---
 title: "Optimal excitation of interannual Atlantic meridional overturning circulation variability"
 authors:
-- "Zanna L." 
+- "L. Zanna " 
 - P. Heimbach 
 - A.M. Moore 
 - E. Tziperman
