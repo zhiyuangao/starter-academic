@@ -1,20 +1,18 @@
 ---
-title: "Oceanic stochastic parametrizations in a seasonal forecast system"
+title: "Upper ocean singular vectors of the North Atlantic Climate with Implications for Linear Predictability and Variability"
 authors:
-- "M. Andrejczuk"
-- F. Cooper
-- S. Juricke 
-- T. N. Palmer
-- A. Weisheimer
-- L. Zanna
+- "Zanna L." 
+- P. Heimbach 
+- A.M. Moore 
+- E. Tziperman
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2016-05-01T00:00:00Z"
-doi: "doi:10.1175/MWR-D-15-0245.1"
+date: "2012-01-01T00:00:00Z"
+doi: "doi:10.1002/qj.937"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2012-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875"
+publication: "*Q. J. R. Meteorol. Soc.*, 138, 663, 500-513"
 publication_short: ""
 
 abstract: 
@@ -38,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Andrejczuk_etal_2016.pdf
+url_pdf: files/Zanna-et-al-2012.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,6 +44,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+# url_custom = [{name = "Code", url = "http://wwwcvs.mitgcm.org/viewvc/MITgcm/MITgcm/pkg/admtlm/"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
