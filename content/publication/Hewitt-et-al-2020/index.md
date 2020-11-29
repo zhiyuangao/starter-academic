@@ -1,20 +1,16 @@
 ---
-title: "Oceanic stochastic parametrizations in a seasonal forecast system"
+title: "Resolving and Parameterising the Ocean Mesoscale in Earth System Models"
 authors:
-- "M. Andrejczuk"
-- F. Cooper
-- S. Juricke 
-- T. N. Palmer
-- A. Weisheimer
-- L. Zanna
+- "H. Hewitt"
+- et al
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2016-05-01T00:00:00Z"
-doi: "doi:10.1175/MWR-D-15-0245.1"
+date: "2020-01-05T00:00:00Z"
+doi: "10.1007/s40641-020-00164-w"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875"
+publication: "*Current Climate Change Reports*, 6, 137–152"
 publication_short: ""
 
 abstract: 
@@ -38,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Andrejczuk_etal_2016.pdf
+url_pdf: files/Hewitt-et-al-2020.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
