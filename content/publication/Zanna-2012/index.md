@@ -1,20 +1,15 @@
 ---
-title: "Oceanic stochastic parametrizations in a seasonal forecast system"
+title: "Forecast Skill and Predictability of Observed Atlantic Sea Surface Temperatures"
 authors:
-- "M. Andrejczuk"
-- F. Cooper
-- S. Juricke 
-- T. N. Palmer
-- A. Weisheimer
-- L. Zanna
+- "L. Zanna"
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2016-05-01T00:00:00Z"
-doi: "doi:10.1175/MWR-D-15-0245.1"
+date: "2012-07-01T00:00:00Z"
+doi: "10.1175/JCLI-D-11-00539.1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2012-07-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Mon. Wea. Rev.*, 144, 5, 1867-1875"
+publication: "*J. Climate*, 25, 14, 5047-5056"
 publication_short: ""
 
 abstract: 
@@ -38,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Andrejczuk_etal_2016.pdf
+url_pdf: files/Zanna2012-JClim.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
