@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Emily Newsom"
+title: "Arthur Guillaumin"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "EmilyNewsom"
+- "ArthurGuillaumin"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,8 +22,9 @@ bio:
 
 # List each interest with a dash
 interests:
-- Ocean Warming 
-- Climate Feedbacks
+- Statistics
+- Machine Learning
+- Ocean Turbulence 
 
 education:
 #  courses:
