@@ -74,8 +74,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- PI
+# - Researchers
+# - Visitors
 ---
 
 Laure Zanna is a Professor in Mathematics & Atmosphere/ Ocean Science at New York University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. She has worked on a wide range of topics including the role of the ocean in setting ocean heat and carbon patterns under climate change, regional sea level rise, ocean turbulence in climate models, and uncertainty quantification. Recently, she has been particularly interested in the development of machine learning models with embedded physics to deepen our understanding of climate processes. 
