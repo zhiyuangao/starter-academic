@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Emily Newsom"
+title: "Andrew Brettin"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "EmilyNewsom"
+- "AndrewBrettin"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ bio:
 
 # List each interest with a dash
 interests:
-- Ocean Warming 
-- Climate Feedbacks
+- Sea Level 
+- Climate Extremes
 
 education:
 #  courses:
@@ -64,5 +64,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Students
 ---
