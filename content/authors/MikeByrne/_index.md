@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Emily Newsom"
+title: "Mike Byrne"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "EmilyNewsom"
+- "MikeByrne"
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,8 +22,8 @@ bio:
 
 # List each interest with a dash
 interests:
-- Ocean Warming 
-- Climate Feedbacks
+- Atmospheric Dynamics  
+- Land/Ocean Constrast
 
 education:
 #  courses:
