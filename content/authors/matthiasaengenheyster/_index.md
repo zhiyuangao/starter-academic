@@ -4,7 +4,7 @@ title: "Matthias Aengenheyster"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "EmilyNewsom"
+- "matthiasaengenheyster"
 
 # Is this the primary user of the site?
 superuser: false
