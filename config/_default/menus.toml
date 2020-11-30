@@ -25,13 +25,13 @@
 
 [[main]]
   name = "People"
-  url = "#featured"
+  url = "#people"
   weight = 5
   
-[[main]]                                                                                               
-  name = "Teaching"                                                                                    
-  url = "#featured"                                                                                    
-  weight = 6                                                                                           
+# [[main]]                                                                                               
+#  name = "Teaching"                                                                                    
+#  url = "#featured"                                                                                    
+#  weight = 6                                                                                           
                                                                                                                                                                                               
 [[main]]
   name = "Contact"
