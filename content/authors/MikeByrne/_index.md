@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc
+role: Marie Curie Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -24,6 +24,7 @@ bio:
 interests:
 - Atmospheric Dynamics  
 - Land/Ocean Constrast
+- Monsoons
 
 education:
 #  courses:
