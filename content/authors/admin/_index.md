@@ -6,7 +6,7 @@ title: Laure Zanna
 superuser: true
 
 # Role/position
-role: Professor of Mathematics & Atmosphere/Ocean Science
+role: Professor of Mathematics & Atmosphere/Ocean Science [she/her]
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,8 @@ bio: My research interests include climate dynamics, ocean modeling, and machine
 interests:
 - Ocean Dynamics
 - Climate Change
-- Machine Learning
+- Machine Learning/Data Science
+- Ocean Warming & Sea Level 
 
 education:
   courses:
