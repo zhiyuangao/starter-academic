@@ -23,7 +23,8 @@ bio:
 # List each interest with a dash
 interests:
 - Ocean Warming 
-- Climate Feedbacks
+- Ocean Modeling 
+- Atmospheric Extremes
 
 education:
 #  courses:
