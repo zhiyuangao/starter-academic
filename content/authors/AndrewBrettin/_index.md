@@ -24,6 +24,7 @@ bio:
 interests:
 - Sea Level 
 - Climate Extremes
+- Data Science
 
 education:
 #  courses:
