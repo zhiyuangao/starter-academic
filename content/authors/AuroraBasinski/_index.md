@@ -24,6 +24,7 @@ bio:
 interests:
 - Ocean Tracers 
 - Climate Change
+- Conceptual Models
 
 education:
 #  courses:
