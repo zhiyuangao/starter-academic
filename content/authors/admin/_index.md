@@ -80,9 +80,9 @@ user_groups:
 # - Visitors
 ---
 
-Laure Zanna is a Professor in Mathematics & Atmosphere/ Ocean Science at New York University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. She has worked on a wide range of topics including the role of the ocean in setting ocean heat and carbon patterns under climate change, regional sea level rise, ocean turbulence in climate models, and uncertainty quantification. Recently, she has been particularly interested in the development of machine learning models with embedded physics to deepen our understanding of climate processes. 
+Laure Zanna is a Professor in Mathematics & Atmosphere/Ocean Science at the Courant Institute, New York University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. She has worked on a wide range of topics including global and regional sea level rise, ocean decadal predictions, ocean turbulence in climate models, and uncertainty quantification. Recently, she has been particularly interested in the role of the ocean in setting ocean heat and carbon patterns under climate change, and in the development of machine learning models with embedded physics to deepen our understanding of climate processes. 
 
-Prior to NYU, she was a faculty member at the University of Oxford until 2019, and obtained her PhD in 2009 in Climate Dynamics from Harvard University. She was the recipient of the 2020 Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”. She currently serves as an editor for Journal of Climate.  
+Prior to NYU, she was a faculty member at the University of Oxford until 2019, and obtained her PhD in 2009 in Climate Dynamics from Harvard University. She was the recipient of the 2020 Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”. She currently serves as an editor for the Journal of Climate.  
 
 See below for opportinuties to join our team. 
 
