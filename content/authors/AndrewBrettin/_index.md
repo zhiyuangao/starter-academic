@@ -15,16 +15,16 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: ""
+  url: "andrewbrettin.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Sea Level 
-- Climate Extremes
-- Data Science
+- Sea Level
+- Coastal ocean dynamics 
+- Extreme events
 
 education:
 #  courses:
