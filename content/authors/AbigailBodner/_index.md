@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Postdoc
+role: Postdoc [starting Summer 2021]
 
 # Organizations/Affiliations
 organizations:
