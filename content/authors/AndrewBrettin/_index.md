@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: website
-  url: "andrewbrettin.github.io"
+  url: "https://andrewbrettin.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
