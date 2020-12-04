@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Elizabeth Yankovsky"
+title: "Elizabeth Yankovsky [she/her]"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -14,17 +14,17 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: webste
+  url: "https://elizabethyankovsky.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash
 interests:
-- Ocean Dynamics
+- Model parameterization 
 - Turbulence
-- Parameterization
+- Mesoscale & submesoscale dynamics
 
 education:
 #  courses:
