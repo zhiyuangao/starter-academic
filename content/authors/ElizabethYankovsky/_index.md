@@ -14,7 +14,7 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: webste
+- name: website
   url: "https://elizabethyankovsky.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
