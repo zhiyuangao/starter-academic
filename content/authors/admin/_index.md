@@ -6,7 +6,8 @@ title: Laure Zanna
 superuser: true
 
 # Role/position
-role: Professor of Mathematics & Atmosphere/Ocean Science [she/her]
+role:[she/her]
+role: Professor of Mathematics & Atmosphere/Ocean Science 
 
 # Organizations/Affiliations
 organizations:
