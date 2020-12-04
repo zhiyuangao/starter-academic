@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Arthur Guillaumin"
+title: "Arthur Guillaumin [he/him]"
 
 # Username (this should match the folder name and the name on publications)
 authors:
