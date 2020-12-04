@@ -23,8 +23,8 @@ bio:
 # List each interest with a dash
 interests:
 - Statistics
-- Machine Learning
-- Ocean Turbulence 
+- Machine learning 
+- Physics Applications
 
 education:
 #  courses:
