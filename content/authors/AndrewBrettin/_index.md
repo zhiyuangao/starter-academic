@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Andrew Brettin"
+title: "Andrew Brettin [he/him]"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -69,4 +69,3 @@ user_groups:
 - Students
 ---
 
-[he/him]
