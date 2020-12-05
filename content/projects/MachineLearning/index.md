@@ -4,7 +4,8 @@
 title: "Data Science & Climate"
 summary: ""
 authors: []
-tags: [Deep Learning]
+tags:
+- Deep Learning
 categories: []
 date: 2020-11-30T10:13:19-05:00
 
