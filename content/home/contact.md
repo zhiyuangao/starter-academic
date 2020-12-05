@@ -28,3 +28,5 @@ content:
 design:
   columns: '2'
 ---
+
+<a class="twitter-timeline" data-width="400" data-height="300" data-theme="light" href="https://twitter.com/laurezanna?ref_src=twsrc%5Etfw">Tweets by laurezanna</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
