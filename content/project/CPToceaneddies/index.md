@@ -40,5 +40,4 @@ url_video: ""
 slides: ""
 
 ---
-More info on the project website [CPT Ocean Eddies](https://ocean-eddy-cpt.github.io/index.html)
-and please find the proposal [online](https://figshare.com/articles/Proposal/10105922).
+
