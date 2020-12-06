@@ -1,7 +1,7 @@
 ---
 title: "Global reconstruction of historical ocean heat storage and transport"
 authors:
-- "Zanna L." 
+- "L. Zanna" 
 - "S. Khatiwala" 
 - "J. Gregory" 
 - "J. Ison" 

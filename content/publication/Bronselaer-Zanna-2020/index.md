@@ -64,3 +64,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+Data from Bronselaer and Zanna can be found: https://zenodo.org/record/3981292#.X8xWkS2cYn0

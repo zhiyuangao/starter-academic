@@ -1,7 +1,7 @@
 ---
 title: "The causes of sea-level rise since 1900"
 authors:
-- "Frederikse T." 
+- "T. Frederikse" 
 - F. Landerer 
 - L. Caron 
 - S. Adhikari 

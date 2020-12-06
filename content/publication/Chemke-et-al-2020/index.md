@@ -1,7 +1,7 @@
 ---
 title: "Attribution of North Atlantic surface temperature"
 authors:
-- "Chemke R." 
+- "R. Chemke" 
 - L. Zanna 
 - L. M. Polvani 
 # author_notes:

@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions"
 authors:
-- "Zanna L." 
+- "L. Zanna" 
 - "J. M. Brankart" 
 - "M. Huber" 
 - "S. Leroux" 
