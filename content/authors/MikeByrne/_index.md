@@ -23,8 +23,6 @@ bio:
 # List each interest with a dash
 interests:
 - Atmospheric Dynamics  
-- Land/Ocean Constrast
-- Monsoons
 
 education:
 #  courses:

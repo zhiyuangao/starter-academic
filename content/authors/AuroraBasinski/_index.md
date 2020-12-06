@@ -20,11 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
+# List each interest with a dash (Ocean Tracers, Climate Change,Conceptual Models)
 interests:
-- Ocean Tracers 
-- Climate Change
-- Conceptual Models
+- 
 
 education:
 #  courses:

@@ -32,7 +32,7 @@ education:
   - course: MSc in Environmental Sciences
     institution: Weizmann Institute of Science
     year: 2003
-  - course: BSc in Atmospheric Science
+  - course: BSc in Atmospheric Physics
     institution: Tel Aviv University
     year: 2001
     
@@ -80,9 +80,6 @@ user_groups:
 # - Visitors
 ---
 
-Laure Zanna is a Professor in Mathematics & Atmosphere/Ocean Science at the Courant Institute, New York University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. She has worked on a wide range of topics including global and regional sea level rise, ocean decadal predictions, ocean turbulence in climate models, and uncertainty quantification. Recently, she has been particularly interested in the role of the ocean in setting ocean heat and carbon patterns under climate change, and in the development of machine learning models with embedded physics to deepen our understanding of climate processes. 
+Our group aims to advance the fundamental understanding of ocean dynamics and its role in the climate system in order to improve climate change projections. Our team has worked on a wide range of topics including global and regional sea level rise, ocean decadal predictions, the representation of ocean turbulence in climate models, and uncertainty quantification for seasonal predictions. Recently, we have been particularly interested in the role of the ocean dynamics in shaping patterns of ocean heat and carbon storage under climate change, and in the development of physics-aware machine learning models to deepen our understanding of climate processes and their representation in climate models. 
 
-Prior to NYU, she was a faculty member at the University of Oxford until 2019, and obtained her PhD in 2009 in Climate Dynamics from Harvard University. She was the recipient of the 2020 Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”. She currently serves as an editor for the Journal of Climate.  
-
-See below for opportinuties to join our team. 
-
+**[formal bio]** Laure Zanna is a Professor in Mathematics & Atmosphere/Ocean Science at the Courant Institute, New York University. Her research focuses on the dynamics of the climate system and the main emphasis of her work is to study the influence of the ocean on local and global scales. Prior to NYU, she was a faculty member at the University of Oxford until 2019, and obtained her PhD in 2009 in Climate Dynamics from Harvard University. She was the recipient of the 2020 Nicholas P. Fofonoff Award from the American Meteorological Society “For exceptional creativity in the development and application of new concepts in ocean and climate dynamics”. She currently serves as an editor for the Journal of Climate.  

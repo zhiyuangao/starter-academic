@@ -20,11 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
+# List each interest with a dash O(Ocean Warming - Ocean Modeling - Atmospheric Extremes)
 interests:
-- Ocean Warming 
-- Ocean Modeling 
-- Atmospheric Extremes
+- Ocean Heat Uptake
 
 education:
 #  courses:

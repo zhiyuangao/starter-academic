@@ -20,11 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
+# List each interest with a dash. (Submesoscale dynamics - Turbulence - Sea Level Dynamics) 
 interests:
-- Submesoscale dynamics
-- Turbulence 
-- Sea Level Dynamics
+- 
 
 education:
 #  courses:

@@ -20,10 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-# List each interest with a dash
+# List each interest with a dash (Ocean Warming, Climate Feedbacks)
 interests:
-- Ocean Warming 
-- Climate Feedbacks
+- 
 
 education:
 #  courses:
