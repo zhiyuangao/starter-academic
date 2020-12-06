@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Data Science & Climate"
-summary: ""
+summary: "Harnessing Data and Machine Learning"
 authors: []
 tags: []
 categories: []

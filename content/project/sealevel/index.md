@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Sea Level"
-summary: ""
+summary: "Global and Regional Projections"
 authors: []
 tags: []
 categories: []

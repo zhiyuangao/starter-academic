@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Oceans in Climate Change"
-summary: ""
+summary: "Understanding the role of ocean dynamics in climate"
 authors: []
 tags: []
 categories: []
