@@ -22,7 +22,10 @@ bio:
 
 # List each interest with a dash. (Submesoscale dynamics - Turbulence - Sea Level Dynamics) 
 interests:
-- 
+- GFD
+- Turbulence
+- Sea Level 
+- Machine Learning
 
 education:
 #  courses:
