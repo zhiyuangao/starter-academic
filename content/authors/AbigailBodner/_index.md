@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Abigail Bodner"
+title: "Abigail Bodner [she/her]"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -15,7 +15,7 @@ role: Postdoc [starting Summer 2021]
 # Organizations/Affiliations
 organizations:
 - name: website
-  url: ""
+  url: "abodner.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -39,6 +39,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/abigailbodner
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/USERNAME
