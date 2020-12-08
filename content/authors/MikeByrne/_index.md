@@ -15,7 +15,7 @@ role: Marie Curie Fellow
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: ""
+  url: "https://sites.google.com/tcd.ie/michaelbyrne"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -39,9 +39,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/DrMichaelByrne
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
