@@ -15,7 +15,7 @@ role: Postdoc [starting Summer 2021]
 # Organizations/Affiliations
 organizations:
 - name: website
-  url: "abodner.github.io"
+  url: "https://abodner.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
