@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Emily Newsom"
+title: "Emily Newsom [she/her]"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -14,15 +14,18 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: website
+  url: "http://emilynewsom.squarespace.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash (Ocean Warming, Climate Feedbacks)
 interests:
-- 
+- Transient climate change
+- Ocean heat uptake 
+- Global ocean circulation
+- Atmosphere-ocean dynamics
 
 education:
 #  courses:
@@ -39,9 +42,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/embonewsom
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PERSON-ID
