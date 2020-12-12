@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash O(Ocean Warming - Ocean Modeling - Atmospheric Extremes)
 interests:
-- Ocean Heat Uptake
+- 
 
 education:
 #  courses:
