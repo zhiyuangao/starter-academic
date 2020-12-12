@@ -14,15 +14,17 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: website
+  url: "https://abasinski.netlify.app"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash (Ocean Tracers, Climate Change,Conceptual Models)
 interests:
-- 
+- Tracer distribution 
+- Ocean carbon uptake 
+- Conceptual models
 
 education:
 #  courses:
