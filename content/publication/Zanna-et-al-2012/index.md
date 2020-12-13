@@ -1,7 +1,7 @@
 ---
 title: "Upper ocean singular vectors of the North Atlantic Climate with Implications for Linear Predictability and Variability"
 authors:
-- "Zanna L." 
+- "L. Zanna" 
 - P. Heimbach 
 - A.M. Moore 
 - E. Tziperman
@@ -9,7 +9,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2012-01-01T00:00:00Z"
-doi: "doi:10.1002/qj.937"
+doi: "10.1002/qj.937"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2012-01-01T00:00:00Z"

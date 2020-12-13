@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2013-07-01T00:00:00Z"
-doi: "doi:10.1088/1751-8113/46/25/254018"
+doi: "10.1088/1751-8113/46/25/254018"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-07-01T00:00:00Z"

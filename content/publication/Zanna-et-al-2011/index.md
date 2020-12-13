@@ -9,7 +9,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2011-02-01T00:00:00Z"
-doi: "doi:10.1175/MWR-D-15-0245.1"
+doi: "10.1175/MWR-D-15-0245.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2011-02-01T00:00:00Z"

@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2017-08-01T00:00:00Z"
-doi: "doi:10.3390/fluids2030045"
+doi: "10.3390/fluids2030045"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-08-01T00:00:00Z"

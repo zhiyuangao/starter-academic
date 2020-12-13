@@ -1,7 +1,7 @@
 ---
 title: "Lagrangian ocean analysis: fundamentals and practices"
 authors:
-- "van Sebille E." 
+- "E. van Sebille" 
 - "S. M. Griffies" 
 - "R. Abernathey" 
 - "T. P. Adams" 
@@ -40,7 +40,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2018-01-01T00:00:00Z"
-doi: "doi:10.1016/j.ocemod.2017.11.008"
+doi: "10.1016/j.ocemod.2017.11.008"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-01-01T00:00:00Z"

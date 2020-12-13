@@ -1,14 +1,14 @@
 ---
 title: "Frequency-domain multi-model analysis of the response of Atlantic Meridional overturning circulation to surface forcing"
 authors:
-- "MacMartin D.G."
+- "D.G. MacMartin"
 - E. Tziperman
 - L. Zanna
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2013-07-01T00:00:00Z"
-doi: "doi:10.1175/JCLI-D-12-00717.1"
+doi: "10.1175/JCLI-D-12-00717.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2013-07-01T00:00:00Z"

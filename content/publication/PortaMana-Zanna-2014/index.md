@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2014-07-01T00:00:00Z"
-doi: "doi:10.1016/j.ocemod.2014.04.002"
+doi: "10.1016/j.ocemod.2014.04.002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2014-07-01T00:00:00Z"

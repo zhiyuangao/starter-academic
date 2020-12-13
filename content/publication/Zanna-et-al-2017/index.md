@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2017-01-01T00:00:00Z"
-doi: "doi:10.1016/j.ocemod.2017.01.004"
+doi: "10.1016/j.ocemod.2017.01.004"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

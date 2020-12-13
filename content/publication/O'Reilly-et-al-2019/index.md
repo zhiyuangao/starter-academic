@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2019-01-10T00:00:00Z"
-doi: "doi:10.1175/JCLI-D-19-0177.1"
+doi: "10.1175/JCLI-D-19-0177.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-10T00:00:00Z"
@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/O'Reilly-et-al-2019.pdf
+url_pdf: files/Oreilly-et-al-2019a.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

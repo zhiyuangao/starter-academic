@@ -11,7 +11,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2016-05-01T00:00:00Z"
-doi: "doi:10.1175/MWR-D-15-0245.1"
+doi: "10.1175/MWR-D-15-0245.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [oceanensembles]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,5 +78,11 @@ slides: example
 # 
 # Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 ---
+Model uncertainty is one of the main sources of uncertainty in ensemble prediction on seasonal to decadal timescales.
+Here, we quantify model uncertainty in the ocean component of a seasonal forecast system by introducing a range of stochastic parametrizations.
+The stochastic parametrizations help increase the spread of the ensemble and reduce error.
+We find that the stochastically perturbed parameterization tendency (SPPT) schemes provided the largest impact on the model spread and bias. We also suggest new ways to reduce forecast error.
+
+
 
 

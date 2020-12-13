@@ -11,7 +11,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2018-05-01T00:00:00Z"
-doi: "doi:10.1002/qj.3397"
+doi: "10.1002/qj.3397"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-05-01T00:00:00Z"

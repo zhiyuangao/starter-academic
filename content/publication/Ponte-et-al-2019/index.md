@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2019-01-05T00:00:00Z"
-doi: "doi:10.3389/fmars.2019.00437"
+doi: "10.3389/fmars.2019.00437"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-05T00:00:00Z"

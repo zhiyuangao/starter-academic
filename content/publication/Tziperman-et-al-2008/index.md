@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2008-07-01T00:00:00Z"
-doi: "doi:10.1175/2007JPO3769.1"
+doi: "10.1175/2007JPO3769.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2008-07-01T00:00:00Z"

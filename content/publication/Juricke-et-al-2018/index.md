@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Juricke_et_al-2018-QJRMS.pdf
+url_pdf: files/Juricke-et-al-2017.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

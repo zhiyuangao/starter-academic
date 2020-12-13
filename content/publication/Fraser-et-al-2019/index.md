@@ -1,17 +1,17 @@
 ---
 title: "Predictability of North Atlantic Sea Surface Height"
 authors:
-- "M. Andrejczuk"
-- F. Cooper
-- S. Juricke 
-- T. N. Palmer
-- A. Weisheimer
+- "R. Fraser"
+- M. Palmer
+- C. Roberts
+- C. Wilson
+- D. Copsey
 - L. Zanna
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2019-01-01T00:00:00Z"
-doi: "doi:10.1007/s00382-019-04814-0"
+doi: "10.1007/s00382-019-04814-0"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"

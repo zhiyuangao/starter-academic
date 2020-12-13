@@ -1,7 +1,7 @@
 ---
 title: "Remote and local influences in forecasting Pacific SST: a linear inverse model and a multimodel ensemble study"
 authors:
-- "Faggiani Dias D." 
+- "D. Faggiani Dias" 
 - A. Subramanian 
 - L. Zanna 
 - A. J. Miller
@@ -9,7 +9,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2018-06-01T00:00:00Z"
-doi: "doi:10.1007/s00382-018-4323-z"
+doi: "10.1007/s00382-018-4323-z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-06-01T00:00:00Z"

@@ -1,7 +1,7 @@
 ---
 title: "The impact of tropical precipitation on summertime Euro-Atlantic circulation via a circumglobal wave-train"
 authors:
-- "C. 'Reilly" 
+- "C. O'Reilly" 
 - T. Woollings 
 - L. Zanna 
 - A. Weisheimer
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/OReilly-et-al-2018.pdf
+url_pdf: files/OReilly-et-al-2018a.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

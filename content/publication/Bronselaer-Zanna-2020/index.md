@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2020-08-01T00:00:00Z"
-doi: "doi.org/10.1038/s41586-020-2573-5"
+doi: "10.1038/s41586-020-2573-5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-01T00:00:00Z"

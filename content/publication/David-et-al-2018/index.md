@@ -1,14 +1,14 @@
 ---
 title: "Eddy-mixing entropy and its maximization in forced-dissipative geostrophic turbulence"
 authors:
-- "David T." 
+- "T. David" 
 - L. Zanna 
 - D.P. Marshall
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2018-06-01T00:00:00Z"
-doi: "doi.org/10.1088/1742-5468/aad19a"
+doi: "10.1088/1742-5468/aad19a"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-06-01T00:00:00Z"

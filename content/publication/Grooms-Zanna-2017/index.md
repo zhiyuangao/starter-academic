@@ -1,13 +1,13 @@
 ---
 title: "A note on Toward a stochastic parametrization of ocean mesoscale eddies"
 authors:
-- "Grooms I."
+- "I. Grooms"
 - L. Zanna
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2017-03-01T00:00:00Z"
-doi: "doi:10.1016/j.ocemod.2017.03.007"
+doi: "10.1016/j.ocemod.2017.03.007"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-03-01T00:00:00Z"

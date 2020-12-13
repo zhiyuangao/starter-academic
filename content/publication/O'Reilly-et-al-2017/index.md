@@ -8,7 +8,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2017-09-01T00:00:00Z"
-doi: "doi.org/10.1175/JCLI-D-16-0345.1"
+doi: "10.1175/JCLI-D-16-0345.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-09-01T00:00:00Z"

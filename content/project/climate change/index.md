@@ -45,10 +45,10 @@ The oceans are a major sink of heat and carbon, able to delay climate change. Th
 
 One main focus of our work is address fundamental questions such as:
 
-- What is the role of the ocean circulation is shaping patterns of heat, carbon and oxygen storage? (e.g., Bronselaer & Zanna, 2018; [Zanna et al, 2019](https://laurezanna.github.io/publication/zanna-et-al-2017b/))
+- What is the role of the ocean circulation is shaping patterns of heat, salinity, carbon and oxygen storage? (e.g., [Bronselaer & Zanna, 2020](https://laurezanna.github.io/publication/bronselaer-zanna-2020/); [Zanna et al, 2019](https://laurezanna.github.io/publication/zanna-et-al-2017b/))
 
 - What drives the uncertainty in projections of ocean heat uptake and thermosteric sea level change? (e.g., [Huber and Zanna, 2017](https://laurezanna.github.io/publication/huber-zanna-2017/))
 
-- Which physical processes govern the timescale of adjustment of the  ocean under climate change? (e.g., [Marshall and Zanna, 2014](https://laurezanna.github.io/files/pdf/Marshall-Zanna-2014.pdf)) 
+- Which physical processes govern the timescale of adjustment of the  ocean under climate change? (e.g., [Marshall and Zanna, 2014](https://laurezanna.github.io/files/Marshall-Zanna-2014.pdf)) 
 
-- How does the surface forcing and ocean dynamics influence the air-sea fluxes of carbon? (e.g., [Bronselaer et al, 2016](https://laurezanna.github.io/files/pdf/Bronselaer_et_al-2016.pdf); [Bronselaer et al, 2017](https://laurezanna.github.io/files/pdf/Bronselaer-et-al-2018.pdf)) 
+- How does the surface forcing and ocean dynamics influence the air-sea fluxes of carbon? (e.g., [Bronselaer et al, 2016](https://laurezanna.github.io/files/Bronselaer_et_al-2016.pdf); [Bronselaer et al, 2017](https://laurezanna.github.io/files/Bronselaer-et-al-2018.pdf)) 

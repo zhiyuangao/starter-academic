@@ -2,7 +2,30 @@
 title: "Resolving and Parameterising the Ocean Mesoscale in Earth System Models"
 authors:
 - "H. Hewitt"
-- et al
+- M. Roberts
+- P. Mathiot
+- A. Biastoch
+- E. Blockley
+- E. P. Chassignet
+- B. Fox-Kemper
+- P. Hyder
+- D. P. Marshall
+- E. Popova
+- A.-M. Treguier
+- L. Zanna
+- A. Yool
+- Y. Yu
+- R. Beadling
+- M. Bell
+- T. Kuhlbrodt
+- T. Arsouze
+- A. Bellucci
+- F. Castruccio
+- B. Gan
+- D. Putrasahan
+- C. D. Roberts
+- L. Van Roekel
+- Q. Zhang
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

@@ -9,7 +9,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2010-05-01T00:00:00Z"
-doi: "doi:10.1175/2009JPO4196.1"
+doi: "10.1175/2009JPO4196.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2010-05-01T00:00:00Z"

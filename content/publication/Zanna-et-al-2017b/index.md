@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2019-01-07T00:00:00Z"
-doi: "doi:10.1073/pnas.1808838115"
+doi: "10.1073/pnas.1808838115"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-07T00:00:00Z"

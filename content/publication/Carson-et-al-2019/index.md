@@ -1,19 +1,18 @@
 ---
 title: "Climate model uncertainty and trend detection of regional sea level projections in the open ocean and coastal zone"
 authors:
-- "Carson M."
-- Lyu. K. 
-- Richter K. 
-- Becker M. 
-- Domingues C. M. 
-- Han W. 
-- Little C.
-- Zanna L. 
+- "M. Carson"
+- K. Lyu
+- K. Richter
+- M. Becker
+- C. M. Domingues
+- W. Han
+- L. Zanna
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2019-01-01T00:00:00Z"
-doi: "doi.org/10.1007/s10712-019-09559-3"
+doi: "10.1007/s10712-019-09559-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
