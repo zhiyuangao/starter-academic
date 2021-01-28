@@ -1,5 +1,5 @@
 ---
-title: M2LInES: New International Collaboration on Machine learning for Climate modeling  (15 open positions)
+title: M2LInES: International Collaboration on Machine learning for Climate modeling (15 open positions)
 subtitle: Experts in Machine learning, Climate Physics, and Modeling team up to deepen our understanding of climate projections
 summary:  
 authors:
