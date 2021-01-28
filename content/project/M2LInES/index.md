@@ -1,33 +1,42 @@
 ---
-title: M2LInES - New Collaboration on Machine Learning for Climate Modeling
-subtitle: Experts in Machine learning, Climate Physics, and Modeling team up to deepen our understanding of climate projections
-summary:  
-authors:
-- admin
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "M2LInES: ML for Climate"
+summary: "International collaboration to improve climate projections"
+authors: []
 tags: []
 categories: []
-date: "2021-01-24T00:00:00Z"
-lastMod: "2021-01-24T00:00:00Z"
-featured: false
-draft: false
+date: 2020-11-30T10:13:19-05:00
+
+# Optional external URL for project (replaces project detail page).
+external_link: "https://m2lines.github.io/"
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
+  preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+
 ---
-
-We are excited to announce the launch of our new international project [M&#x00B2LInES](https://m2lines.github.io/) --  Multiscale Machine Learning In coupled Earth System Modeling --  aimed at deepening our understanding of climate processes, and improving climate projections using scientific machine learning. Our [team](https://m2lines.github.io/team/) includes scientists from New York University, Princeton, GFDL, Columbia, LDEO, NCAR, MIT, CNRS-IGE, and CNRS-IPSL.  
-
-The overall goal of the project is to improve climate projections and reduce climate model biases, especially at the air-sea interface, using machine learning (ML). We will rely on data from a range of high-resolution (idealized and global) simulations and data assimilation products to deepen our understanding and improve the representation of subgrid physics in the ocean, sea-ice and atmosphere components of existing IPCC-class climate models. In addition, we will work on overcoming challenges related to ML for climate modeling including sampling efficiency, generalization, interpretability and uncertainty quantification. 
-
-We are looking for 1 project manager and 12 postdocs right now at several institutions, please visit [https://m2lines.github.io/jobs/](https://m2lines.github.io/jobs/) for more info about the different positions available, and how to apply. This is a highly collaborative project, and the researchers are expected to interact with different groups.
