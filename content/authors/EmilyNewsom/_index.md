@@ -15,7 +15,7 @@ role: Postdoc
 # Organizations/Affiliations
 organizations:
 - name: website
-  url: "http://emilynewsom.squarespace.com"
+  url: "https://emilyrosenewsom.github.io/emilyrosenewsom/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
