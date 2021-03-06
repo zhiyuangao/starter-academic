@@ -1,5 +1,5 @@
 ---
-title: M2LInES - New Collaboration on Machine Learning for Climate Modeling
+title: M<sup>2</sup>LInES - New Collaboration on Machine Learning for Climate Modeling
 subtitle: Experts in Machine learning, Climate Physics, and Modeling team up to deepen our understanding of climate projections
 summary:  
 authors:
