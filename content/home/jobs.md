@@ -54,7 +54,7 @@ subtitle = ""
 
 - 👉 Postdocs: We are looking for 3 postdocs in [ML for Climate Modeling](https://apply.interfolio.com/83078)
 
-- 💡Graduate Students: I am accepting PhD students through CAOS, and CDS. Read carefully the application pages. To see our latest work, browse through this website and my [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=en). Note: in CAOS, you are admitted to the program, not an adviser or a research project.  
+- 💡Graduate Students: I am accepting PhD students through [CAOS](https://caos.cims.nyu.edu/dynamic/phd-program/overview/), and [CDS](https://cds.nyu.edu/phd-admissions-req/). Read carefully the application pages.  Note: in CAOS, you are admitted to the program, not an adviser or a research project. To see our latest work, browse through this website and my [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=en). 
 
 - Undergraduates, Interns and K-12: We are not accepting any applicants for the foreseeable future. 
 
