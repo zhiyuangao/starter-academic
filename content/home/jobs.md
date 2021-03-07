@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Academic Template"
+title = "Jobs"
 subtitle = ""
 
 [design]
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -50,7 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-## Opportunity in the group 
+## Opportunities in the group 
+
+Feb. 2021: We are looking for postdocs in [ML for Climate Modeling](https://academic-demo.netlify.app)
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
