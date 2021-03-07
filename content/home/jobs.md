@@ -36,7 +36,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -52,19 +52,11 @@ subtitle = ""
 
 ## Opportunities in the group 
 
-Feb. 2021: We are looking for postdocs in [ML for Climate Modeling](https://academic-demo.netlify.app)
+- 👉 Postdocs: We are looking for 3 postdocs in [ML for Climate Modeling](https://apply.interfolio.com/83078)
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
+- 💡Graduate Students: I am accepting PhD students through CAOS, and CDS. Read carefully the application pages. You can understand our work by navigating through this website. Note: in CAOS, you are admitted to the program, not an adviser or a research project.  
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+- Undergraduates, Interns and K-12: We are not accepting any applicants for the foreseeable future. 
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
-
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
 
 
