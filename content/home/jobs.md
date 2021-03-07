@@ -50,11 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-## Opportunities in the group 
+## Opportunities in the group [updated 02/2021]
 
 - 👉 Postdocs: We are looking for 3 postdocs in [ML for Climate Modeling](https://apply.interfolio.com/83078)
 
-- 💡Graduate Students: I am accepting PhD students through CAOS, and CDS. Read carefully the application pages. You can understand our work by navigating through this website. Note: in CAOS, you are admitted to the program, not an adviser or a research project.  
+- 💡Graduate Students: I am accepting PhD students through CAOS, and CDS. Read carefully the application pages. To see our latest work, browse through this website and my [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=en). Note: in CAOS, you are admitted to the program, not an adviser or a research project.  
 
 - Undergraduates, Interns and K-12: We are not accepting any applicants for the foreseeable future. 
 
