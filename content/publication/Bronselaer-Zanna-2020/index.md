@@ -65,4 +65,4 @@ projects: []
 slides: example
 ---
 
-Data from Bronselaer and Zanna can be found: https://zenodo.org/record/3981292#.X8xWkS2cYn0
+Data from Bronselaer and Zanna can be found here: https://zenodo.org/record/3981292#.X8xWkS2cYn0
