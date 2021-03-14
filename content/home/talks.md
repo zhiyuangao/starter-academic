@@ -69,9 +69,11 @@ subtitle = ""
  css_class = ""
 +++
 
-- Patterns of Ocean Heat Uptake at [GISS](https://www.youtube.com/watch?v=Tsb8bM5ZHoo), based on [Bronselaer and Zanna, 2020](https://laurezanna.github.io/files/Bronselaer-Zanna-2020.pdf)
+- Selected Upcoming Talks: [One World Mathematics of Climate](https://sites.google.com/view/oneworldmathsofclimate) on July 6th; SIAM Annual Meeting 2021[](https://www.siam.org/conferences/cm/program/invited-presentations/an21-invited-presentations), July 19-23; [Data Science Coast To Coast](https://academicdatascience.org/resources/coast2coastseminar) on June 16. 
 
-- Discovering Equations for Ocean Mesoscale Parameterizations at the [CESM OMWG Winter Meeting](https://www.youtube.com/watch?v=9YQnW9ylacU) (at 5:44:45), based on [Zanna and Bolton, 2020](https://laurezanna.github.io/files/Zanna-Bolton-2020.pdf). 
+- Patterns of Ocean Heat Uptake recording at [GISS](https://www.youtube.com/watch?v=Tsb8bM5ZHoo), based on [Bronselaer and Zanna, 2020](https://laurezanna.github.io/files/Bronselaer-Zanna-2020.pdf)
 
-- Blending Physics and Machine Learning for Climate Modeling at the Opening Conference of [IMSI](https://www.imsi.institute/videos/laure-zanna/)
+- Discovering Equations for Ocean Mesoscale Parameterizations recording at the [CESM OMWG Winter Meeting](https://www.youtube.com/watch?v=9YQnW9ylacU) (at 5:44:45), based on [Zanna and Bolton, 2020](https://laurezanna.github.io/files/Zanna-Bolton-2020.pdf). 
+
+- Blending Physics and Machine Learning for Climate Modeling recording at the Opening Conference of [IMSI](https://www.imsi.institute/videos/laure-zanna/)
 
