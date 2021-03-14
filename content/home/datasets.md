@@ -6,9 +6,9 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 120  # Order that this section will appear.
+weight = 125  # Order that this section will appear.
 
-title = "Jobs"
+title = "Datasets"
 subtitle = ""
 
 [design]
@@ -50,13 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-## Opportunities in the group [updated 02/2021]
+## Ocean Warming Datasets
 
-- 👉 Postdocs: We are looking for 3 postdocs in [ML for Climate Modeling](https://apply.interfolio.com/83078)
+- Added and Redistributed Heat from Bronselaer and Zanna, Nature, 2020 on [Zenodo](https://doi.org/10.5281/zenodo.3981292)
 
-- 💡Graduate Students: I am accepting PhD students through [CAOS](https://caos.cims.nyu.edu/dynamic/phd-program/overview/), [Applied Math](https://math.nyu.edu/dynamic/phd/phd-mathematics/applied-math/), and [CDS](https://cds.nyu.edu/phd-admissions-req/). Read carefully the application pages.  Note: in CAOS, you are admitted to the program, not an adviser or a research project. To see our latest work, browse through this website and my [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=en). 
-
-- Undergraduates, Interns and K-12: We are not accepting any applicants for the foreseeable future. 
+- Ocean Warming Reconstruction 1870-2018 from Zanna et al., PNAS, 2019 [](); further details are [here](https://laurezanna.github.io/post/ohc_pnas_dataset/).
 
 
 
