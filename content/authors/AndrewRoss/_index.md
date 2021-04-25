@@ -22,7 +22,7 @@ bio:
 
 # List each interest with a dash. (Submesoscale dynamics - Turbulence - Sea Level Dynamics) 
 interests:
-- 
+- M2LInES
 
 education:
 #  courses:
