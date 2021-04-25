@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Mentoring & DEI Activities"
+title: "Mentoring + DEI Activities"
 summary: ""
 authors: []
 tags: []
@@ -41,6 +41,8 @@ slides: ""
 
 ---
 
-Some activities that we are proud to participate in: 
+Selected activities that we are participating in and that might be of interest to member of the community: 
 -  NYU CDS Undergraduate Research Program ([CURP](https://github.com/LaureZanna/starter-academic/new/master/content/project)) in partnership with the National Society of Black Physicists (NSBP)
--  
+- Unlearning Racism in Geoscience ([URGE](https://urgeoscience.org))
+- Mentoring Physical Oceanography Women to Increase Retention ([MPOWIR](http://mpowir.org))
+
