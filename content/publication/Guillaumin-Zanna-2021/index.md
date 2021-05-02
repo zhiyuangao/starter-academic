@@ -1,13 +1,13 @@
 ---
 title: "Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization" 
 authors:
-- "T. Bolton"
+- "A. Guillaumin"
 - L. Zanna
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2019-01-05T00:00:00Z"
-doi: "10.1029/2018MS001472"
+date: "2021-01-05T00:00:00Z"
+doi: "https://www.essoar.org/doi/abs/10.1002/essoar.10506419"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-05T00:00:00Z"
@@ -19,7 +19,7 @@ publishDate: "2019-01-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*JAMES*, 11, 376–399"
+publication: "*Submitted to JAMES*, https://www.essoar.org/doi/abs/10.1002/essoar.10506419" 
 publication_short: ""
 
 abstract: 
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Bolton-Zanna-2019.pdf
+# url_pdf: files/Bolton-Zanna-2019.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
