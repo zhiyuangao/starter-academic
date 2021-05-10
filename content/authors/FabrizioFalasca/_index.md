@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Fabrizio Falasca"
+title: "Fabrizio Falasca [he/him]"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -15,7 +15,7 @@ role: Postdoc [starting Summer 2021]
 # Organizations/Affiliations
 organizations:
 - name: website
-  url: ""
+  url: "https://www.researchgate.net/profile/Fabrizio-Falasca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -23,6 +23,9 @@ bio:
 # List each interest with a dash. (Submesoscale dynamics - Turbulence - Sea Level Dynamics) 
 interests:
 - Sea Level Extremes
+- Dynamical Systems
+- Data Mining
+
 
 education:
 #  courses:
