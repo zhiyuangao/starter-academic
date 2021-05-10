@@ -1,5 +1,5 @@
 ---
-title: M2LInES - New Collaboration on Machine Learning for Climate Modeling
+title: M2LInES - New Collaboration on Machine Learning for Climate Modeling support by Schmidt Futures
 subtitle: Experts in Machine learning, Climate Physics, and Modeling team up to deepen our understanding of climate projections
 summary:  
 authors:
@@ -25,6 +25,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Read our [press release](https://www.nyu.edu/about/news-publications/news/2021/march/international-collaboration-will-use-artificial-intelligence-to-.html). 
 
 We are excited to announce the launch of our new international project [M<sup>2</sup>LInES](https://m2lines.github.io/) --  Multiscale Machine Learning In coupled Earth System Modeling --  aimed at deepening our understanding of climate processes, and improving climate projections using scientific machine learning. Our [team](https://m2lines.github.io/team/) includes scientists from New York University, Princeton, GFDL, Columbia, LDEO, NCAR, MIT, CNRS-IGE, and CNRS-IPSL.  
 
