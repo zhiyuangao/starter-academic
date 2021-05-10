@@ -1,6 +1,6 @@
 ---
 title: M2LInES - New Collaboration on Machine Learning for Climate Modeling support by Schmidt Futures
-subtitle: Experts in Machine learning, Climate Physics, and Modeling team up to deepen our understanding of climate projections
+subtitle: Experts in Machine learning, Climate Physics, and Modeling team up to deepen our understanding of climate
 summary:  
 authors:
 - admin
