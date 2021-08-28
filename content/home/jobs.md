@@ -52,7 +52,7 @@ subtitle = ""
 
 ## Opportunities in the group [updated 02/2021]
 
-- 👉 Postdocs: We are looking for 3 postdocs in [ML for Climate Modeling](https://apply.interfolio.com/83078)
+# - 👉 Postdocs: We are looking for 3 postdocs in [ML for Climate Modeling](https://apply.interfolio.com/83078)
 
 - 💡Graduate Students: I am accepting PhD students through [CAOS](https://caos.cims.nyu.edu/dynamic/phd-program/overview/), [Applied Math](https://math.nyu.edu/dynamic/phd/phd-mathematics/applied-math/), and [CDS](https://cds.nyu.edu/phd-admissions-req/). Read carefully the application pages.  Note: in CAOS, you are admitted to the program, not an adviser or a research project. To see our latest work, browse through this website and my [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=en). 
 
