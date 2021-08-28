@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "TBD"
+title: "Pavel Perezhogin"
 
 # Username (this should match the folder name and the name on publications)
 authors:
