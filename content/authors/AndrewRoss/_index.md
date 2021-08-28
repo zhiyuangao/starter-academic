@@ -15,14 +15,15 @@ role: Postdoc [starting Summer 2021]
 # Organizations/Affiliations
 organizations:
 - name: website
-  url: ""
+  url: "https://asross.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # List each interest with a dash. (Submesoscale dynamics - Turbulence - Sea Level Dynamics) 
 interests:
-- M2LInES
+- Machine Learning
+- Interpretability
 
 education:
 #  courses:
