@@ -4,13 +4,13 @@ title: "TBD"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "TBD"
+- "Ziwei Li"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M2LInES Postdoc [position to be filled]
+role: M2LInES Postdoc [starting fall 2021]
 
 # Organizations/Affiliations
 organizations:
