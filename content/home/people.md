@@ -12,13 +12,13 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
 #    - Principal Investigator
-    - Researchers
-    - Students
+#    - Researchers
+#    - Students
 #    - Administration
 #    - Visitors
 #    - Alumni
-#    - Group Members
-    - Mascots
+    - Group Members
+#    - Mascots
 design:
   # Show user's social networking links? (true/false)
   show_social: true
