@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2021-01-05T00:00:00Z"
-doi: "https://www.essoar.org/doi/abs/10.1002/essoar.10506419"
+doi: "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002534"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-05T00:00:00Z"
@@ -19,7 +19,7 @@ publishDate: "2019-01-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted to JAMES*, https://www.essoar.org/doi/abs/10.1002/essoar.10506419" 
+publication: "*JAMES*, 13, e2021MS002534" 
 publication_short: ""
 
 abstract: 
