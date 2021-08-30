@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: files/Bolton-Zanna-2019.pdf
+url_pdf: files/Guillaumin-Zanna-2021.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
