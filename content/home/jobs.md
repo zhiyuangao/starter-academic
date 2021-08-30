@@ -50,11 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-## Opportunities in the group [updated 02/2021]
+## Opportunities in the group [updated 08/2021]
 
-# - 👉 Postdocs: We are looking for 3 postdocs in [ML for Climate Modeling](https://apply.interfolio.com/83078)
-
-- 💡Graduate Students: I am accepting PhD students through [CAOS](https://caos.cims.nyu.edu/dynamic/phd-program/overview/), [Applied Math](https://math.nyu.edu/dynamic/phd/phd-mathematics/applied-math/), and [CDS](https://cds.nyu.edu/phd-admissions-req/). Read carefully the application pages.  Note: in CAOS, you are admitted to the program, not an adviser or a research project. To see our latest work, browse through this website and my [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=en). 
+- 💡Graduate Students: I am accepting PhD students through [CAOS](https://caos.cims.nyu.edu/dynamic/phd-program/overview/), [Applied Math](https://math.nyu.edu/dynamic/phd/phd-mathematics/applied-math/), and [CDS](https://cds.nyu.edu/phd-admissions-req/). Read carefully the application pages.  Note: in CAOS, you are admitted to the program, not an adviser or a research project. If a student is accepted in CAOS, they will be able to discuss research projects with potential advisors during their first year. If a student is interested in working with me, browse through this website and my [Google Scholar](https://scholar.google.com/citations?user=xWZmhjsAAAAJ&hl=en) to get an idea of our research projects. 
 
 - Undergraduates, Interns and K-12: We are not accepting any applicants for the foreseeable future. 
 
