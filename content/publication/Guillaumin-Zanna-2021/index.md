@@ -1,5 +1,5 @@
 ---
-title: "Applications of Deep Learning to Ocean Data Inference and Subgrid Parameterization" 
+title: "Stochastic-Deep Learning Parameterization of Ocean Momentum Forcing" 
 authors:
 - "A. Guillaumin"
 - L. Zanna
@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2021-01-05T00:00:00Z"
-doi: "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021MS002534"
+doi: "10.1029/2021MS002534"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-05T00:00:00Z"
