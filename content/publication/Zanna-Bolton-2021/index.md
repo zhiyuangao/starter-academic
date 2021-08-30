@@ -1,25 +1,25 @@
 ---
-title: "Data Driven Equation Discovery of Ocean Mesoscale Closures"
+title: "Deep Learning of Unresolved Turbulent Ocean Processes in Climate Models"
 authors:
 - "L. Zanna"
 - T. Bolton
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2020-08-20T00:00:00Z"
-doi: "10.1029/2020GL088376"
+date: "2021-08-20T00:00:00Z"
+doi: "110.1002/9781119646181.ch20"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-01-05T00:00:00Z"
+publishDate: "2021-08-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*GRL*, 47, e2020GL088376"
+publication: "*In Deep learning for the Earth Sciences (eds G. Camps-Valls, D. Tuia, X.X. Zhu and M. Reichstein)*, https://doi.org/10.1002/9781119646181.ch20"
 publication_short: ""
 
 abstract: 
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: files/Zanna-Bolton-2020.pdf
+url_pdf: files/Zanna-Bolton-2021.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
