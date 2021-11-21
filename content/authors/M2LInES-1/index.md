@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: M2LInES Postdoc [starting fall 2021]
+role: M2LInES Postdoc
 
 # Organizations/Affiliations
 organizations:
 - name: website
-  url: ""
+  url: "https://ziweili.page"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
