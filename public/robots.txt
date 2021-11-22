@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://LaureZanna.github.io/sitemap.xml
