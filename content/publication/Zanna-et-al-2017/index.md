@@ -1,7 +1,7 @@
 ---
 title: "Scale-Aware Deterministic and Stochastic Parametrizations of Eddy-Mean Flow Interaction"
 authors:
-- "Zanna L." 
+- "L. Zanna " 
 - P.G.L. Porta Mana 
 - J. Anstey 
 - T. David 
